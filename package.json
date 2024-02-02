@@ -1,0 +1,9 @@
+{
+	"name": "anyjspm",
+	"version": "0.0.3",
+	"readme": "README.md",
+	"bin": {
+		"anypm": "anypm.js",
+		"anyjs": "anyjs.js"
+	}
+}
